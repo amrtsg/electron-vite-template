@@ -36,7 +36,7 @@ function createWindow() {
 ## To run this project
 ```
 > git clone https://github.com/amrtsg/electron-vite-template.git
-> cd electron-vite
+> cd electron-vite-template
 > npm i
 > npm run dev
 ```
